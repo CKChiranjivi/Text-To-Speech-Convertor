@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/56aad2fe-9b10-4f25-ac95-bde8c9e401ea
+
+![Screenshot2](https://github.com/user-attachments/assets/f13c495c-f6e8-4780-88c6-710b4704c720)
+![Screenshot1](https://github.com/user-attachments/assets/2d1982d6-bcfe-420e-a3f6-33256c4704dd)
 # Text-to-Speech Web Application
 
 ## Description
