@@ -61,5 +61,5 @@ Contributions are welcome! To contribute:
 4. Create a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under me(Mr. C.K.Chiranjivi) . Contact to me for more details.
 
