@@ -23,7 +23,7 @@ The **Text-to-Speech Web Application** is an interactive tool built using HTML, 
    ```bash
    cd Text-To-Speech-Convertor
    ```
-3. Open the `index.html` file in your browser to run the application.
+3. Open the `Untitled-1.html` file in your browser to run the application.
 
 ## Usage
 1. Open the application in a web browser.
@@ -33,7 +33,8 @@ The **Text-to-Speech Web Application** is an interactive tool built using HTML, 
 5. Adjust the pitch slider (if available) for a customized output.
 
 ## Screenshots
-(Add screenshots of the application interface here if available.)
+
+
 
 ## Demo
 Visit the project repository for more details: [GitHub Project Link](https://github.com/CKChiranjivi/Text-To-Speech-Convertor)
